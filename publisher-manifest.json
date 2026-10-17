@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c23cb7ab7bb6fb5efaa7ebc5",
+  "owner": "huyrg2721",
+  "repo": "page-3efadc9a9ece96c548f766d3",
+  "title": "在人间",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3efadc9a9ece96c548f766d3",
+      "a": "在人间",
+      "b": "",
+      "entity": "在人间",
+      "brand": "在人间",
+      "separator": "",
+      "path": "index.html",
+      "hash": "517e8331543ef837c382d59d2f0064f62023b2a86273bbdead86d57587198d62",
+      "content": {
+        "keyword1": "在人间",
+        "keyword2": "",
+        "primary_entity": "在人间",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "在人间是一款面向独立创作者与小型工作室的网络服务品牌，提供按月或按年订阅的基础版、旗舰版与团队版套餐。",
+          "AI_DESCRIPTION": "在人间是一款面向独立创作者与小型工作室的网络服务品牌，提供按月或按年订阅的基础版、旗舰版与团队版套餐。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--espresso:#2a1a14;--cocoa:#3d241b;--mousse:#5a3a2c;--cream:#f4ece1;--mint:#bfdcc8;--mint-deep:#7cbf95;--paper:#faf6f0;--rule:#d9c9b8}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:var(--paper);color:var(--espresso);font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif;line-height:1.7;-webkit-font-smoothing:antialiased}\n.wrap{max-width:1180px;margin:0 auto;padding:0 28px}\na{color:var(--espresso);text-decoration:none;border-bottom:1px solid var(--mousse)}\na:hover{color:var(--mint-deep);border-bottom-color:var(--mint-deep)}\nem{font-style:italic;color:var(--mousse)}\n\n.hero{background:var(--cream);border-bottom:1px solid var(--rule);padding:64px 0 48px}\n.hero-grid{display:grid;grid-template-columns:1.05fr 0.95fr 0.9fr;gap:36px;align-items:start}\n.hero-lead h1{font-size:54px;line-height:1.05;margin:0 0 18px;letter-spacing:-1px;font-weight:normal}\n.hero-lead .kicker{font-family:\"Helvetica Neue\",Arial,sans-serif;text-transform:uppercase;letter-spacing:4px;font-size:11px;color:var(--mousse);margin-bottom:14px;display:block}\n.hero-lead p{font-size:17px;color:var(--cocoa);margin:0 0 22px}\n.hero-quote{font-family:Georgia,serif;font-size:22px;line-height:1.45;border-top:1px solid var(--mousse);border-bottom:1px solid var(--mousse);padding:22px 0;color:var(--espresso)}\n.hero-quote span{display:block;font-size:13px;color:var(--mousse);margin-top:10px;letter-spacing:2px}\n.hero-side{background:var(--espresso);color:var(--cream);padding:28px;border-radius:22px;box-shadow:0 18px 40px -22px rgba(42,26,20,.45)}\n.hero-side h3{margin:0 0 6px;font-size:20px;font-weight:normal;color:var(--mint)}\n.hero-side .num{font-size:42px;line-height:1;color:var(--paper);font-family:Georgia,serif}\n.hero-side p{margin:8px 0 0;font-size:14px;color:#dcc9b9}\n\n.anchors{display:flex;flex-wrap:wrap;gap:8px;margin-top:28px;padding-top:22px;border-top:1px solid var(--rule)}\n.anchors a{font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;padding:9px 16px;border-radius:999px;background:var(--paper);border:1px solid var(--rule);color:var(--cocoa)}\n.anchors a:hover{background:var(--mint);border-color:var(--mint-deep);color:var(--espresso)}\n\nsection{padding:64px 0;border-bottom:1px solid var(--rule)}\nsection:last-of-type{border-bottom:none}\nh2{font-size:32px;margin:0 0 8px;font-weight:normal;letter-spacing:-.5px}\n.section-kicker{font-family:\"Helvetica Neue\",Arial,sans-serif;text-transform:uppercase;font-size:11px;letter-spacing:4px;color:var(--mint-deep);margin-bottom:14px;display:block}\n.lead{font-size:17px;color:var(--cocoa);max-width:680px;margin:0 0 30px}\n\n.intro-grid{display:grid;grid-template-columns:1.1fr 1fr;gap:48px;align-items:start}\n.intro-grid .col p{font-size:16px;color:var(--cocoa)}\n.intro-grid ul{padding-left:18px;margin:18px 0 0;color:var(--cocoa)}\n.intro-grid li{margin-bottom:8px}\n\n.plans-stack{display:flex;flex-direction:column;gap:24px;margin-top:18px}\n.plan{background:var(--cream);border-radius:24px;padding:32px 34px;box-shadow:0 22px 50px -28px rgba(42,26,20,.35);display:grid;grid-template-columns:260px 1fr 240px;gap:28px;align-items:center;position:relative}\n.plan.featured{background:var(--espresso);color:var(--cream)}\n.plan.featured h3,.plan.featured .price{color:var(--mint)}\n.plan.featured ul li::before{background:var(--mint)}\n.plan .badge{position:absolute;top:-12px;right:24px;background:var(--mint);color:var(--espresso);padding:6px 14px;border-radius:999px;font-size:11px;letter-spacing:2px;font-family:\"Helvetica Neue\",Arial,sans-serif;text-transform:uppercase}\n.plan h3{margin:0 0 6px;font-size:26px;font-weight:normal}\n.plan .tag{font-family:\"Helvetica Neue\",Arial,sans-serif;text-transform:uppercase;font-size:11px;letter-spacing:3px;color:var(--mousse);margin-bottom:10px;display:block}\n.plan.featured .tag{color:var(--mint)}\n.plan .price{font-size:34px;line-height:1;margin:0;font-family:Georgia,serif}\n.plan .price small{font-size:14px;color:var(--mousse);font-weight:normal}\n.plan.featured .price small{color:#cdb8a7}\n.plan ul{list-style:none;padding:0;margin:0}\n.plan li{padding:6px 0 6px 22px;position:relative;font-size:14px}\n.plan li::before{content:\"\";position:absolute;left:0;top:14px;width:8px;height:8px;border-radius:50%;background:var(--mint-deep)}\n.plan .annual{margin-top:14px;padding-top:14px;border-top:1px dashed var(--rule);font-size:14px}\n.plan.featured .annual{border-top-color:#574039;color:#dcc9b9}\n\n.use-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:20px}\n.use-card{background:#fff;border-radius:20px;padding:26px 24px;box-shadow:0 18px 36px -26px rgba(42,26,20,.4)}\n.use-card .step{font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:11px;letter-spacing:3px;color:var(--mint-deep);text-transform:uppercase}\n.use-card h3{margin:8px 0 10px;font-size:19px;font-weight:normal}\n.use-card p{font-size:14px;color:var(--cocoa);margin:0}\n\n.clients{margin-top:28px}\n.clients-note{padding:22px 26px;background:var(--cream);border-radius:20px;color:var(--cocoa);font-size:15px;border-left:4px solid var(--mint-deep)}\n\n.faq-wrap{margin-top:22px;display:grid;grid-template-columns:1fr 1fr;gap:14px}\n.faq-wrap details{background:#fff;border-radius:16px;padding:4px 22px;box-shadow:0 12px 24px -22px rgba(42,26,20,.35);border:1px solid var(--rule)}\n.faq-wrap summary{cursor:pointer;padding:14px 0;font-size:16px;list-style:none;position:relative}\n.faq-wrap summary::-webkit-details-marker{display:none}\n.faq-wrap summary::after{content:\"+\";position:absolute;right:0;top:14px;font-family:Georgia,serif;font-size:22px;color:var(--mousse)}\n.faq-wrap details[open] summary::after{content:\"−\"}\n.faq-wrap details p{margin:0 0 18px;color:var(--cocoa);font-size:14px}\n\n.foot{background:var(--espresso);color:var(--cream);padding:48px 0;margin-top:40px}\n.foot .row{display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px;align-items:flex-end}\n.foot h4{margin:0 0 8px;font-family:\"Helvetica Neue\",Arial,sans-serif;text-transform:uppercase;letter-spacing:3px;font-size:11px;color:var(--mint)}\n.foot p{margin:0;font-size:13px;color:#cdb8a7;max-width:380px}\n.foot nav a{color:var(--cream);border-bottom:1px solid #574039;font-size:13px;margin-left:18px}\n.foot nav a:hover{color:var(--mint);border-bottom-color:var(--mint)}\n\n@media(max-width:900px){\n.hero-grid{grid-template-columns:1fr}\n.plan{grid-template-columns:1fr}\n.intro-grid,.use-grid,.faq-wrap{grid-template-columns:1fr}\n.hero-lead h1{font-size:38px}\n}\n</style><main>\n<header class=\"hero\">\n<div class=\"wrap\">\n<div class=\"hero-grid\">\n<div class=\"hero-lead\">\n<span class=\"kicker\">在人间 · 第 8138 期</span>\n<h1>在人间</h1>\n<p>一份为独立写作者、远程团队与小工作室准备的连接服务。把流量、线路、设备数都写在合同里，按月订阅，或一次买一年。</p>\n</div>\n<aside class=\"hero-side\">\n<h3>本月截稿</h3>\n<div class=\"num\">300<span>GB</span></div>\n<p>旗舰版默认配额，月底清零，未用部分不结转。</p>\n</aside>\n<div>\n<div class=\"hero-quote\">\n“把每一天的网络开销，当作一段独立的句子来读。”\n<span>—— 在人间编辑部</span>\n</div>\n</div>\n</div>\n<nav class=\"anchors\" aria-label=\"页面内导航\">\n<a href=\"#about\">关于</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#how\">上手</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</div>\n</header>\n\n<section id=\"about\">\n<div class=\"wrap\">\n<span class=\"section-kicker\">Section 01</span>\n<h2>我们在做的事</h2>\n<p class=\"lead\">在人间由一支小团队运营，专注把订阅、流量与设备数写清楚，让每一次扣费都对应一段真实的网络使用。</p>\n<div class=\"intro-grid\">\n<div class=\"col\">\n<p>我们不做弹窗式推广，也不在凌晨两点推送营销邮件。订阅页面打开后，你能直接看到三张卡：基础、旗舰、团队，分别对应小流量、高频协作与企业级带宽。</p>\n<ul>\n<li>每月初重置配额，按年付费额外优惠一百元。</li>\n<li>支持多设备同时在线，设备数与套餐绑定。</li>\n<li>工单由人工回复，按收到时间顺序处理。</li>\n</ul>\n</div>\n<div class=\"col\">\n<p>编辑部位于杭州，工作室分布在上海、成都与吉隆坡。所有账单、发票与对账信息都保存在用户后台，可在订阅周期内随时下载。</p>\n<p>若你所在地区对网络服务有额外合规要求，请在订阅前通过常见问题区中的方式与团队取得联系，我们会单独答复。</p>\n</div>\n</div>\n</div>\n</section>\n\n<section id=\"plans\">\n<div class=\"wrap\">\n<span class=\"section-kicker\">Section 02</span>\n<h2>三档订阅</h2>\n<p class=\"lead\">以下价格为人民币结算价，未含税费。订阅周期可按月或按年切换，差额在下一周期补齐。</p>\n<div class=\"plans-stack\">\n<article class=\"plan\">\n<div>\n<span class=\"tag\">A · 入门</span>\n<h3>基础版</h3>\n<div class=\"price\">¥15<small> /月</small></div>\n</div>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<div class=\"annual\">按年付仅需 ¥150/年</div>\n</article>\n<article class=\"plan featured\">\n<span class=\"badge\">编辑部推荐</span>\n<div>\n<span class=\"tag\">B · 主推</span>\n<h3>旗舰版</h3>\n<div class=\"price\">¥35<small> /月</small></div>\n</div>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n<div class=\"annual\">按年付仅需 ¥350/年</div>\n</article>\n<article class=\"plan\">\n<div>\n<span class=\"tag\">C · 团队</span>\n<h3>团队版</h3>\n<div class=\"price\">¥85<small> /月</small></div>\n</div>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<div class=\"annual\">按年付仅需 ¥850/年</div>\n</article>\n</div>\n</div>\n</section>\n\n<section id=\"how\">\n<div class=\"wrap\">\n<span class=\"section-kicker\">Section 03</span>\n<h2>三步上手</h2>\n<p class=\"lead\">订阅完成后，账户、密钥与配置说明会发送至注册邮箱，整个流程可在十分钟内完成。</p>\n<div class=\"use-grid\">\n<article class=\"use-card\">\n<div class=\"step\">Step 01</div>\n<h3>选择套餐</h3>\n<p>在订阅页选择基础、旗舰或团队版，填写邮箱并完成支付。年付与月付可随时切换。</p>\n</article>\n<article class=\"use-card\">\n<div class=\"step\">Step 02</div>\n<h3>导入配置</h3>\n<p>登录后台复制订阅链接，导入到支持的客户端。密钥可重置，重置后旧密钥立即失效。</p>\n</article>\n<article class=\"use-card\">\n<div class=\"step\">Step 03</div>\n<h3>开始使用</h3>\n<p>客户端连接成功后即可使用。如遇连接异常，先确认本地网络，再通过工单联系人工处理。</p>\n</article>\n</div>\n</div>\n</section>\n\n<section id=\"clients\">\n<div class=\"wrap\">\n<span class=\"section-kicker\">Section 04</span>\n<h2>支持客户端</h2>\n<p class=\"lead\">在人间不在本站提供客户端下载。订阅链接可导入市面常见的开源客户端，具体兼容情况以客户端官方说明为准。</p>\n<div class=\"clients\">\n<div class=\"clients-note\">\n<strong>说明：</strong>请前往各客户端的官方页面下载安装包。在人间不为第三方客户端的可用性、隐私策略或后续更新负责，也不维护镜像站。\n</div>\n</div>\n</div>\n</section>\n\n<section id=\"faq\">\n<div class=\"wrap\">\n<span class=\"section-kicker\">Section 05</span>\n<h2>常见问题</h2>\n<p class=\"lead\">下面这些是订阅前最常被问到的问题。若未找到答案，可通过页脚的联系方式发信给编辑部。</p>\n<div class=\"faq-wrap\">\n<details>\n<summary>如何选择基础版、旗舰版与团队版？</summary>\n<p>基础版适合个人用户日常浏览与轻度下载；旗舰版为编辑部主推，覆盖高清流媒体与多人协作；团队版用于 5 人以上同时在线，可联系专属经理定制路由。</p>\n</details>\n<details>\n<summary>套餐内的流量是如何计算的？</summary>\n<p>流量按自然月重置。以旗舰版为例，每月 1 日 00:00 起获得 300GB，未用完部分不结转至下一月。按年订阅则享受一次付费十二个月的优惠。</p>\n</details>\n<details>\n<summary>支持多少台设备同时在线？</summary>\n<p>基础版 3 台、旗舰版 5 台、团队版 20 台。设备数在后台的“已登录设备”列表中可见，并可对单台设备进行下线操作。</p>\n</details>\n<details>\n<summary>是否提供客户端下载？</summary>\n<p>在人间不直接提供客户端。请通过开源客户端的官方渠道下载安装包并导入订阅链接，兼容性与隐私策略由客户端方负责。</p>\n</details>\n<details>\n<summary>可以中途升级或降级套餐吗？</summary>\n<p>可以。升级即时生效，差价按剩余周期折算；降级在下一周期生效，本周期内已扣费用不退还。</p>\n</details>\n<details>\n<summary>遇到连接问题如何处理？</summary>\n<p>先在客户端切换节点；若仍无法连接，请整理报错截图与本地网络环境信息，通过工单提交，编辑部按收到顺序回复。</p>\n</details>\n</div>\n</div>\n</section>\n</main>\n\n<footer class=\"foot\">\n<div class=\"wrap\">\n<div class=\"row\">\n<div>\n<h4>在人间编辑部</h4>\n<p>一份关于连接、订阅与日常网络的独立出版物。</p>\n</div>\n<nav>\n<a href=\"#about\">关于</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#faq\">常见问题</a>\n<a href=\"#\">联系我们</a>\n</nav>\n</div>\n<p>本站所有套餐价格与权益以注册页内最新版本为准。</p>\n</div>\n</footer>",
+          "hash": "a12756b6ddf4c5350d3f236afa8ecd8a5b0d3e99d659b868d31aed478df66ab1",
+          "seo": {
+            "title": "在人间 · 一份关于连接与停顿的订阅",
+            "keywords": "在人间,网络服务,套餐,客户端,常见问题",
+            "description": "在人间是一款面向独立创作者与小型工作室的网络服务品牌，提供按月或按年订阅的基础版、旗舰版与团队版套餐。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "8138",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kevhzvk.cn",
+    "host": "p-593b0c64ce.kevhzvk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "04e43e00db17651927c73b6238388ac821a43fbdc2a2257de1c48d5fdaba341a",
+    "sitemap.xml": "6c002dd61e8018e72c1f9efef2c4b00bf05c2f214ff4a44a9d3ea3728c45a282",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "53aed6a0a401ae02bd6093e1c57ea442a036d9ddffac1852e39051c12522d419",
+    "robots.txt": "318f2624576710ead44bc1c845b71f087aefd00bda03bb62e73910ed1994d51f",
+    "ae267d38878a5eed31e680a6b08ea889.txt": "66149a24868a3192e827f7d58e985047be972e30a78d4bee11cd04bc9ed24913"
+  },
+  "revision": "64903c205d284cd83cf14043c1a9aac4a2232a8f8ff585a31d8becf7b82e817d"
+}
